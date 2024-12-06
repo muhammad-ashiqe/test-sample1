@@ -1,0 +1,15 @@
+github
+------
+-cloud based platform for storing the code.
+-allows all developers to work together
+-code hosting using github pages
+-it allows as version control
+-git is the language used to do operations on github gitlab bitbucket
+-
+
+
+operations
+-------------
+clone   :   downloding
+push    :   uploading
+pull    :   getting only changes
